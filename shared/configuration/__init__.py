@@ -1,0 +1,1 @@
+from shared.configuration.open_api_configuration import custom_open_api
